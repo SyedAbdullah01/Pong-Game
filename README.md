@@ -8,6 +8,7 @@ A classic Pong game implemented in HTML, CSS, and JavaScript. Play against the c
 - [Controls](#controls)
 - [Play the Game](#play-the-game)
 - [Game Rules](#game-rules)
+- [Technologies Used](#technologies-used)
 
 ## Introduction
 Pong is a simple and timeless arcade game where players control paddles and try to hit the ball past their opponent's paddle to score points. This repository contains the code for a basic Pong game implemented using HTML, CSS, and JavaScript.
@@ -31,3 +32,13 @@ You can play the game [here](https://jspong-game.netlify.app)
 - If the ball passes the computer's paddle and reaches the top of the screen, you score a point.
 - The ball's speed increases with each successful hit of your paddle.
 - The computer's paddle moves to try and intercept the ball's trajectory.
+
+## Technologies Used
+
+The Pong Game was developed using the following technologies and tools:
+
+- **HTML**: Used for structuring the game's web page.
+- **CSS**: Utilized for styling the game elements, including the paddles and ball.
+- **JavaScript**: Implemented the game logic, including player controls and ball movement.
+- **GitHub**: The codebase is hosted and shared on GitHub.
+- **Netlify**: Deployed the live version of the Pong Game for online play.
